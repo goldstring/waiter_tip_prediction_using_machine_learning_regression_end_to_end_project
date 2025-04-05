@@ -56,7 +56,7 @@ Linear Regression R²: 0.934
 
 ### 📸 Screenshot:
 
-![Model Performance](screenshots/model_score.png)
+<img src="https://github.com/goldstring/waiter_tip_prediction_using_machine_learning_regression_end_to_end_project/blob/main/output/model_performance.png?raw=true" />
 
 ---
 
