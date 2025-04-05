@@ -113,18 +113,7 @@ streamlit run app.py
 
 ## 🧾 Output Example
 
-**Input:**
 
-- Total Bill: $20.5
-- Gender: Female
-- Smoker: No
-- Day: Sunday
-- Time: Dinner
-- Size: 3
-
-**Predicted Tip: $3.52**
-
----
 
 ## ✅ Conclusion
 
@@ -132,20 +121,6 @@ This project demonstrates how regression models can be used to predict waiter ti
 
 ---
 
-## 📁 Project Structure
-
-```
-waiter-tip-prediction/
-├── app.py
-├── model.pkl
-├── requirements.txt
-├── screenshots/
-│   ├── app_ui.png
-│   └── model_score.png
-└── README.md
-```
-
----
 
 ## 📬 Contact
 
