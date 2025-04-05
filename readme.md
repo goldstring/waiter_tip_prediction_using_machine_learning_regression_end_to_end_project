@@ -1,4 +1,5 @@
 # 💰 Waiter Tip Prediction using Machine Learning (Regression)
+<img src="https://github.com/goldstring/waiter_tip_prediction_using_machine_learning_regression_end_to_end_project/blob/main/22676373_80_d2luZXJ5LTA3.jpg?raw=true" />
 
 This project uses machine learning regression techniques to predict the amount of tip a customer might give based on features such as total bill, gender, smoking status, time of day, and day of the week. A user-friendly web application is created using Streamlit for interactive tip predictions.
 
@@ -103,16 +104,9 @@ streamlit run app.py
 
 ---
 
-## 🌟 App Interface
-
-### 📸 Screenshot:
-
-![App Screenshot](screenshots/app_ui.png)
-
----
 
 ## 🧾 Output Example
-
+<img src="https://github.com/goldstring/waiter_tip_prediction_using_machine_learning_regression_end_to_end_project/blob/main/output/screenshots.png?raw=true" />
 
 
 ## ✅ Conclusion
